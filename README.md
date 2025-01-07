@@ -14,6 +14,6 @@ Les visualitzacions generades per aquesta pràctica es poden consultar en el seg
 ## Arxius del codi font
 - **source/**: Conté el codi R utilitzat per transformar les dades del dataset original. Hi ha 4 scripts:
   - `matriu_correlacio.R`: Codi per transformar les dades per la visualització Heatmap.
-  - `work_study_hours.R`: Codi per transformar les dades per la visualització del Bar chart stacked.
-  - `data_gender.R`: Codi per transformar les dades per la visualització del Radar chart.
-  - `family_history.R`: Codi per transformar les dades per la visualització del Donut chart.
+  - `work_study_hours.R`: Codi per transformar les dades per la visualització Bar chart stacked.
+  - `data_gender.R`: Codi per transformar les dades per la visualització Radar chart.
+  - `family_history.R`: Codi per transformar les dades per la visualització Donut chart.
